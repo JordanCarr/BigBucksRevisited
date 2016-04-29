@@ -7,14 +7,9 @@
 package bigBucksRevisited;
 
 class BankAccount {
-    private double balance;
 
-    /**
-     * @param nm
-     * @param amt
-     */
     public BankAccount(String nm, double amt) {
-        String name = nm;
+        name = nm;
         balance = amt;
     }
 
@@ -25,4 +20,8 @@ class BankAccount {
     public void withdraw(double wd) {
         balance = balance - wd;
     }
+
+    public String name;
+    public double balance;
 }
+
