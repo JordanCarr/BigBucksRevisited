@@ -1,5 +1,8 @@
 /*
  * Copyright 2016 Jordan Carr
+ * Project Name: BigBucksRevisited
+ * Class Name: bigBucksRevisited.Tester
+ * Last Modification Date: 01/05/16 7:26 PM
  */
 
 package bigBucksRevisited;
